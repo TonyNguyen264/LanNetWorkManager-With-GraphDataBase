@@ -1,0 +1,11 @@
+Username: ngoc, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: user
+Username: tuan, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: user
+Username: tony, Password: b3282a2f2a28757b3a18ab833de16a9c54518c0b0cf493e3f0a7cf09386f326a, Role: amin
+Username: ngoc, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: admin
+Username: anh2, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: admin
+Username: tonytest, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: admin
+Username: tony1, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: admin
+Username: anh3, Password: 6b51d431df5d7f141cbececcf79edf3dd861c3b4069f0b11661a3eefacbba918, Role: admin
+Username: quocanh, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: user
+Username: tony9, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: user
+Username: tonyuser, Password: 03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4, Role: user
